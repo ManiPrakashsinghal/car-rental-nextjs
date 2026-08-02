@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-sand text-ink font-body antialiased;
+}
+
+::selection {
+  @apply bg-gold/30;
+}
+
+:focus-visible {
+  outline: 2px solid theme("colors.gold.DEFAULT");
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Signature dashed "route line" divider */
+.route-divider {
+  height: 2px;
+  background-image: repeating-linear-gradient(
+    90deg,
+    currentColor 0 14px,
+    transparent 14px 26px
+  );
+}
