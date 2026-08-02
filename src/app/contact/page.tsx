@@ -41,7 +41,7 @@ export default function ContactPage() {
         Let's get you on the road
       </h1>
       <p className="mt-4 max-w-xl text-ink/70">
-        Reach us however's easiest — call for the fastest response, WhatsApp to send
+        Reach us however is easiest — call for the fastest response, WhatsApp to send
         your travel dates, or email for anything detailed.
       </p>
 

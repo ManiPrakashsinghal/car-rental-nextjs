@@ -144,7 +144,7 @@ export default function CarDetailPage({ params }: { params: { slug: string } }) 
           </div>
 
           <div className="mt-8">
-            <h2 className="font-display text-lg text-ink">What's included</h2>
+            <h2 className="font-display text-lg text-ink">What is included</h2>
             <ul className="mt-3 space-y-1.5 text-sm text-ink/70">
               {car.features.map((f) => (
                 <li key={f} className="flex items-center gap-2">

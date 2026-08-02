@@ -72,7 +72,7 @@ export default function CarsPage({
           <Link href="/contact" className="underline">
             contact us
           </Link>{" "}
-          and we'll help you find one.
+          and we all help you find one.
         </p>
       )}
     </section>
