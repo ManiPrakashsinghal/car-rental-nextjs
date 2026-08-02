@@ -5,24 +5,24 @@
 // ────────────────────────────────────────────────────────────────
 
 export const siteConfig = {
-  businessName: "RoadReady Self Drive",
-  tagline: "Self-drive cars, on your terms.",
+  businessName: "Devansh Cra Rental",
+  tagline: "cars, on your terms.",
   city: "Jaipur",
   region: "Rajasthan",
   country: "India",
 
   // Used for tel: links — keep the leading + and country code, no spaces.
-  phoneRaw: "+919000000000",
+  phoneRaw: "+919928644333",
   // Used for display only.
-  phoneDisplay: "+91 90000 00000",
+  phoneDisplay: "+91 99286 44333",
 
   // WhatsApp number, digits only, with country code, NO plus sign.
-  whatsappNumber: "919000000000",
-  whatsappDefaultMessage: "Hi, I want to book a self-drive car.",
+  whatsappNumber: "919928644333",
+  whatsappDefaultMessage: "Hi, I want to book a car.",
 
-  email: "bookings@roadreadyrentals.com",
+  email: "bookings@devanshCarrentals.com",
 
-  address: "Pratap Nagar Sector 3, Near Laxmi Sweets, Jaipur, Rajasthan 302033",
+  address: "Mansarovar, Jaipur, Rajasthan 302020",
 
   // Paste your own Google Maps embed src here (Maps → Share → Embed a map).
   mapsEmbedSrc:
