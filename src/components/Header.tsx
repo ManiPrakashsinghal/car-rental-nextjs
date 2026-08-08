@@ -7,7 +7,7 @@ export default function Header() {
       <div className="mx-auto flex max-w-6xl items-center justify-between px-5 py-4">
         <Link href="/" className="group flex items-center gap-2">
           <span className="grid h-9 w-9 place-items-center rounded-full bg-ink text-sand font-display text-lg">
-            R
+            B
           </span>
           <span className="font-display text-xl tracking-tight text-ink">
             {siteConfig.businessName}

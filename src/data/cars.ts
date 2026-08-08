@@ -46,7 +46,7 @@ export const cars: Car[] = [
     minBookingDays: 1,
     rating: 4.8,
     reviewCount: 90,
-    image: "/images/thar.webp",
+    image: "/images/thar1.avif",
     description:
       "The desert-ready 4x4 for dune runs and open-top highway drives with the wind in your hair.",
     features: ["4x4 capable", "Convertible top", "High ground clearance", "Manual gearbox"],
@@ -64,7 +64,7 @@ export const cars: Car[] = [
     minBookingDays: 1,
     rating: 4.8,
     reviewCount: 90,
-    image: "/images/Scorpio-N-Apcarrental-1.avif",
+    image: "/images/scorpioN.avif",
     description:
       "A commanding 7-seat SUV with the road presence and cabin space for full-family trips.",
     features: ["7 seats", "Automatic", "Bold road presence", "Great highway comfort"],
@@ -84,7 +84,7 @@ export const cars: Car[] = [
     reviewCount: 90,
     // Verify this filename in public/images — the source listing reused
     // the Thar photo for this card, which looked like a mix-up.
-    image: "/images/thar.webp",
+    image: "/images/scoipoClassic.avif",
     description:
       "The classic Scorpio — a rugged, high-riding SUV built for both city runs and long hauls.",
     features: ["7 seats", "Automatic", "Rugged build", "Comfortable long-haul ride"],
@@ -102,7 +102,7 @@ export const cars: Car[] = [
     minBookingDays: 1,
     rating: 4.8,
     reviewCount: 90,
-    image: "/images/Kia-cranes.avif",
+    image: "/images/kiaCarens.avif",
     description:
       "A comfortable 7-seat MUV that's ideal for families and group travel around the city and beyond.",
     features: ["7 seats", "Automatic", "Spacious third row", "Smooth ride quality"],
@@ -156,7 +156,7 @@ export const cars: Car[] = [
     minBookingDays: 1,
     rating: 4.7,
     reviewCount: 90,
-    image: "/images/sonet-exterior-right-front-three-quarter-12.avif",
+    image: "/images/kiasonet.avif",
     description:
       "A punchy diesel-powered compact SUV with sharp styling, great for longer highway drives.",
     features: ["Diesel engine", "Automatic", "Sunroof", "Strong highway performance"],
@@ -174,7 +174,7 @@ export const cars: Car[] = [
     minBookingDays: 1,
     rating: 4.7,
     reviewCount: 90,
-    image: "/images/xuv3xo.avif",
+    image: "/images/xuv300.avif",
     description:
       "A well-equipped compact SUV with a panoramic sunroof — a favourite for weekend getaways.",
     features: ["Sunroof", "Automatic", "5-star safety rating", "Comfortable cabin"],
@@ -212,7 +212,7 @@ export const cars: Car[] = [
     minBookingDays: 1,
     rating: 4.8,
     reviewCount: 90,
-    image: "/images/verna-sedan-500x500-1.webp",
+    image: "/images/verna.avif",
     description:
       "Sharp looks and a confident highway ride — a favourite for longer inter-city drives.",
     features: ["Automatic", "Premium interiors", "Wireless charging", "Cruise control"],
@@ -232,7 +232,7 @@ export const cars: Car[] = [
     minBookingDays: 1,
     rating: 4.8,
     reviewCount: 90,
-    image: "/images/Baleno-1.jpg",
+    image: "/images/Baleno.avif",
     description:
       "Spacious cabin, smooth automatic gearbox, and a boot big enough for a proper weekend bag.",
     features: ["Automatic", "Touchscreen infotainment", "Rear AC vents", "Reverse camera"],
@@ -250,7 +250,7 @@ export const cars: Car[] = [
     minBookingDays: 1,
     rating: 4.8,
     reviewCount: 90,
-    image: "/images/White-Swift47.avif",
+    image: "/images/whiteshift.jpg",
     description:
       "A nimble, fuel-efficient hatchback that's perfect for weaving through city lanes.",
     features: ["Automatic", "Power steering", "Bluetooth audio", "ABS"],
@@ -268,7 +268,7 @@ export const cars: Car[] = [
     minBookingDays: 1,
     rating: 4.6,
     reviewCount: 90,
-    image: "/images/I10-CNG.avif",
+    image: "/images/i10.avif",
     description:
       "A budget-friendly hatchback with a factory-fit CNG option — ideal for keeping running costs low.",
     features: ["Petrol/CNG", "Automatic", "Low running cost", "Easy to park"],
@@ -288,7 +288,7 @@ export const cars: Car[] = [
     minBookingDays: 1,
     rating: 4.9,
     reviewCount: 90,
-    image: "/images/Fortnur.avif",
+    image: "/images/fortuner.jpg",
     description:
       "Premium, powerful, and unmistakably first-class — booked for weddings, VIP transfers and long tours.",
     features: ["Automatic", "Leather seats", "7 seats", "Commanding road presence"],

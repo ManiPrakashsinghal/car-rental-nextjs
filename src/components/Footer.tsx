@@ -10,7 +10,9 @@ export default function Footer() {
           <div>
             <div className="font-display text-2xl">{siteConfig.businessName}</div>
             <p className="mt-3 max-w-xs text-sm leading-relaxed text-sand/70">
-              Convenient, affordable self-drive car rentals in {siteConfig.city}. Well
+            Rent a self-drive car and explore at your own pace, or book a car with a driver for a comfortable, 
+            taxi-style ride — airport transfers, outstation trips, or a full day at your service. 
+            No middlemen, no waiting — just call, WhatsApp or book online. Well
               maintained cars, flexible bookings, and 24/7 support.
             </p>
             <div className="mt-4 flex gap-3 text-sm">
